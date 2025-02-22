@@ -55,7 +55,11 @@ echo "FEIYANG_IP: $FEIYANG_IP"
 echo "检查 Nginx 是否已安装..."
 if ! command -v nginx &> /dev/null; then
   echo "Nginx 未安装，开始安装..."
-  opkg update && opkg install nginx nginx-mod-luci-ssl || { echo "Nginx 安装失败！请检查 opkg 是否正常工作。"; exit 1; }
+  
+  # 强制继续执行 opkg install
+  opkg update || echo "opkg update 失败，继续安装 nginx..."
+  opkg install nginx || { echo "Nginx 安装失败，请检查网络或软件源！" >&2; exit 1; }
+  
 else
   echo "Nginx 已安装，跳过安装步骤。"
 fi
