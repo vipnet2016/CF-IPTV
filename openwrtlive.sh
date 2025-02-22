@@ -68,7 +68,10 @@ fi
 NGINX_CONF_URL="https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
 NGINX_CONF_PATH="/etc/nginx/nginx.conf"
 echo "下载并强制替换Nginx配置文件..."
-curl -o "$NGINX_CONF_PATH" "$NGINX_CONF_URL"
+curl -f --retry 3 --retry-delay 5 -o "$NGINX_CONF_PATH" "$NGINX_CONF_URL" || {
+    echo "Error: Failed to download after retries."
+    exit 1
+}
 
 # 配置Nginx监听80端口（避免重复添加）
 if ! grep -q "server_name $FEIYANG_IP;" "$NGINX_CONF_PATH"; then
@@ -96,7 +99,10 @@ fi
 M3U_URL="https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/allinone.m3u"
 M3U_PATH="/www/allinone.m3u"
 echo "下载M3U文件..."
-curl -o "$M3U_PATH" "$M3U_URL"
+curl -f --retry 3 --retry-delay 5 -o "$NGINX_CONF_PATH" "$NGINX_CONF_URL" || {
+    echo "Error: Failed to download after retries."
+    exit 1
+}
 echo "修改M3U文件中的设备IP..."
 sed -i "s/肥羊IP/$FEIYANG_IP/g" "$M3U_PATH"
 
