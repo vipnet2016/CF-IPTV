@@ -52,12 +52,12 @@ fi
 echo "FEIYANG_IP: $FEIYANG_IP"
 
 # 安装Nginx（如果未安装）
-echo "检查Nginx是否已安装..."
+echo "检查 Nginx 是否已安装..."
 if ! command -v nginx &> /dev/null; then
-  echo "Nginx未安装，开始安装..."
-  opkg update; opkg install nginx
+  echo "Nginx 未安装，开始安装..."
+  opkg update && opkg install nginx nginx-mod-luci-ssl || { echo "Nginx 安装失败！请检查 opkg 是否正常工作。"; exit 1; }
 else
-  echo "Nginx已安装，跳过安装步骤。"
+  echo "Nginx 已安装，跳过安装步骤。"
 fi
 
 # 下载并替换Nginx配置文件（强制替换）
