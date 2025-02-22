@@ -92,7 +92,7 @@ else
 fi
 
 # 下载并替换Nginx配置文件（强制替换）
-NGINX_CONF_URL="https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
+NGINX_CONF_URL="https://raw.staticdn.net/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
 NGINX_CONF_PATH="/etc/nginx/nginx.conf"
 echo "下载并强制替换Nginx配置文件..."
 curl -o "$NGINX_CONF_PATH" "$NGINX_CONF_URL"
@@ -123,7 +123,7 @@ echo "重启Nginx服务..."
 sudo systemctl restart nginx
 
 # 下载并修改M3U文件（强制替换）
-M3U_URL="https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/mytv.m3u"
+M3U_URL="https://raw.staticdn.net/tmxk2021/CF-IPTV/refs/heads/main/mytv.m3u"
 M3U_PATH="/var/www/html/mytv.m3u"
 echo "下载并强制替换M3U文件..."
 curl -o "$M3U_PATH" "$M3U_URL"
