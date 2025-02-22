@@ -65,7 +65,7 @@ else
 fi
 
 # 下载并替换Nginx配置文件（强制替换）
-NGINX_CONF_URL="https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
+NGINX_CONF_URL="https://raw.gitmirror.com/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
 NGINX_CONF_PATH="/etc/nginx/nginx.conf"
 echo "下载并强制替换Nginx配置文件..."
 wget --no-check-certificate -O "$NGINX_CONF_PATH" "$NGINX_CONF_URL"
