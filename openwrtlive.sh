@@ -65,7 +65,7 @@ else
 fi
 
 # 下载并替换Nginx配置文件（强制替换）
-NGINX_CONF_URL="https://raw.staticdn.net/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
+NGINX_CONF_URL="https://raw.gitmirror.com/tmxk2021/CF-IPTV/refs/heads/main/nginx.conf"
 NGINX_CONF_PATH="/etc/nginx/nginx.conf"
 echo "下载并强制替换Nginx配置文件..."
 curl -o "$NGINX_CONF_PATH" "$NGINX_CONF_URL"
@@ -93,7 +93,7 @@ else
 fi
 
 # 下载并修改M3U文件
-M3U_URL="https://raw.staticdn.net/tmxk2021/CF-IPTV/refs/heads/main/allinone.m3u"
+M3U_URL="https://raw.gitmirror.com/tmxk2021/CF-IPTV/refs/heads/main/allinone.m3u"
 M3U_PATH="/www/allinone.m3u"
 echo "下载M3U文件..."
 curl -o "$M3U_PATH" "$M3U_URL"
