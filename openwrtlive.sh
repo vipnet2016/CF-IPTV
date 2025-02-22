@@ -93,7 +93,7 @@ else
 fi
 
 # 下载并修改M3U文件
-M3U_URL="https://cf-raw.tianliangle2010.workers.dev/tmxk2021/CF-IPTV/refs/heads/main/allinone.m3u"
+M3U_URL="https://raw2024.xaxq.pp.ua/tmxk2021/CF-IPTV/refs/heads/main/allinone.m3u"
 M3U_PATH="/www/allinone.m3u"
 echo "下载M3U文件..."
 wget --no-check-certificate -O "$M3U_PATH" "$M3U_URL"
