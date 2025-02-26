@@ -12,3 +12,5 @@
 1. (openwrt)下载赋权并安装脚本：
    ```bash
    bash <(wget -qO- https://fdtv.dxjc.pp.ua/openwrtlive.sh)
+
+如果你路由器启动不了，尝试这个代码：sh -c "$(wget -qO- https://fdtv.dxjc.pp.ua/openwrtlive.sh || curl -fsSL https://fdtv.dxjc.pp.ua/openwrtlive.sh)"
