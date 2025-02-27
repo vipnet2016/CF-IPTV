@@ -14,3 +14,6 @@
    bash <(wget -qO- https://fdtv.dxjc.pp.ua/openwrtlive.sh)
 
 如果你路由器启动不了，尝试这个代码：sh -c "$(wget -qO- https://fdtv.dxjc.pp.ua/openwrtlive.sh || curl -fsSL https://fdtv.dxjc.pp.ua/openwrtlive.sh)"
+
+感谢支持！
+<img src="zsm.png" width="200">
