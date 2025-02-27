@@ -15,7 +15,7 @@
 
 如果你路由器启动不了，尝试这个代码：sh -c "$(wget -qO- https://fdtv.dxjc.pp.ua/openwrtlive.sh || curl -fsSL https://fdtv.dxjc.pp.ua/openwrtlive.sh)"
 
-说明：目前本项目是部署肥羊allinone后，同时安装了频道整理和优化的项目：https://github.com/FanchangWang/allinone_format才能完全生效的；同时iTV项目默认的端口是50101也才能生效
+说明：目前本项目是部署肥羊allinone后，同时安装了频道整理和优化的项目：https://github.com/FanchangWang/allinone_format  才能完全生效的；同时iTV项目默认的端口是50101也才能生效
 
 
 <img src="zsm.png" width="400">
