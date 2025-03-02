@@ -675,22 +675,16 @@ http://服务器ip:20005/hls/live/711.m3u8?token=你的token
 
 #大陆（allinone）
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-10m
-http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv4k_10m.m3u8$gaoma-10m
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K
-http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv4k.m3u8$gaoma
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4 K 8 K",CCTV8K-36m
-http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv8k_36m.m3u8$gaoma-36m
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-10m
-http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv4k16_10m.m3u8$gaoma-10m
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K
-http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv4k16.m3u8$gaoma
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="4 K 8 K",CCTV4K-HLG
+http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv4k.m3u8$gaoma-HLG
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="4 K 8 K",CCTV8K-36m-HLG
+http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv8k_36m.m3u8$gaoma-36m-HLG
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-HLG
+http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fgaoma%2Fcctv4k16.m3u8$gaoma-HLG
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4 K 8 K",CCTV16-4K-HEVC
 http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fitv%2F5000000008000023254.m3u8%3Fcdn%3Dbestzb$itv-HEVC
 #EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="4 K 8 K",北京IPTV4K
 http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fbptv%2F10000100000000050000000003887500.m3u8$bptv
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4 K 8 K",北京体育休闲-4K-HLG
-http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fbptv%2F10000100000000050000000004270524.m3u8$bptv
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4 K 8 K",北京体育休闲-4K
 http://肥羊IP:35456/jump?url=http%3A%2F%2F肥羊IP%3A35455%2Fbptv%2F10000100000000050000000004270525.m3u8$bptv
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.v1.mk/logo/华数4K.png" group-title="4 K 8 K",华数-4K
