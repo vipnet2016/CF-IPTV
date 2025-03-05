@@ -453,91 +453,91 @@ http://服务器ip:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="港澳",八度空间
 http://服务器ip:20002/smt3.2.1.php?id=TV8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="港澳",华丽翡翠台
-http://服务器ip:20004/jade2/jade.stream/chunklist_w108.m3u8
+http://服务器ip:20004/jade2/jade.stream/chunklist_w1008.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="港澳",TVB亚洲武侠
-http://服务器ip:20004/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+http://服务器ip:20004/asia_action1/1asia_action.stream/chunklist_w1001.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="港澳",TVB娱乐新闻台
-http://服务器ip:20004/enew/enew.stream/chunklist_w103.m3u8
+http://服务器ip:20004/enew/enew.stream/chunklist_w1003.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="港澳",无线新闻台
 http://服务器ip:20004/news/news.stream/chunklist_w1005.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="港澳",TVB星河
-http://服务器ip:20004/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+http://服务器ip:20004/xinghe_1/xinghe_1.stream/chunklist_w1006.m3u8
 #EXTINF:-1 tvg-name="RTHK31" group-title="港澳",RTHK31
 http://服务器ip:20006/live/rthk31/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK32" group-title="港澳",RTHK32
 http://服务器ip:20006/live/rthk32/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",翡翠台
-http://服务器ip:20008/AKTV/live/aktv/null/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="港澳",鳳凰中文
-http://服务器ip:20008/AKTV/live/aktv/null-3/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="港澳",无线新闻台(北美)
-http://服务器ip:20008/AKTV/live/aktv2/null-1/AKTV.m3u8
+http://服务器ip:20008/stream/aktv2/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳",鳳凰資訊
-http://服务器ip:20008/AKTV/live/aktv/null-4/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="港澳",無線新聞台
-http://服务器ip:20008/AKTV/live/aktv/null-1/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亚电影" group-title="港澳",美亞電影台(HK)
-http://服务器ip:20008/AKTV/live/aktv/hk-1/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" group-title="港澳",明珠台
-http://服务器ip:20008/AKTV/live/aktv/null-2/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="港澳",鳳凰香港
-http://服务器ip:20008/AKTV/live/aktv/null-5/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB PLUS" group-title="港澳",TVB Plus
-http://服务器ip:20008/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",翡翠综合台(北美)
-http://服务器ip:20008/AKTV/live/aktv/null-17/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",翡翠综合台(北美)
+http://服务器ip:20008/stream/aktv/null-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="千禧经典台" group-title="港澳",千禧經典台(HK)
-http://服务器ip:20008/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",翡翠剧集台(北美)
-http://服务器ip:20008/AKTV/live/aktv/null-18/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",翡翠剧集台(北美)
+http://服务器ip:20008/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="港澳",娛樂新聞台(HK)
-http://服务器ip:20008/AKTV/live/aktv/hk/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="POPC" group-title="港澳",PopC
-http://服务器ip:20008/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",黃金翡翠台
-http://服务器ip:20008/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",myTV SUPER 18台
-http://服务器ip:20008/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",明珠剧集台(北美)
-http://服务器ip:20008/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Channel 8 HD
-http://服务器ip:20008/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Channel 5 HD
-http://服务器ip:20008/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",28 AI 智慧賽馬
-http://服务器ip:20008/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",tvN
-http://服务器ip:20008/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",ROCK Action
-http://服务器ip:20008/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Channel U HD
-http://服务器ip:20008/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Animax(HK)
-http://服务器ip:20008/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+http://服务器ip:20008/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",黃金翡翠台
+http://服务器ip:20008/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",myTV SUPER 18台
+http://服务器ip:20008/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",明珠剧集台(北美)
+http://服务器ip:20008/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Channel 8 HD
+http://服务器ip:20008/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Channel 5 HD
+http://服务器ip:20008/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",28 AI 智慧賽馬
+http://服务器ip:20008/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",tvN
+http://服务器ip:20008/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",ROCK Action
+http://服务器ip:20008/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Channel U HD
+http://服务器ip:20008/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Animax(HK)
+http://服务器ip:20008/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="THRILL" group-title="港澳",Thrill
-http://服务器ip:20008/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",France 24
-http://服务器ip:20008/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",DW
-http://服务器ip:20008/AKTV/live/aktv3/dw/AKTV.m3u8
+http://服务器ip:20008/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",France 24
+http://服务器ip:20008/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",DW
+http://服务器ip:20008/stream/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-name="东方卫视" group-title="港澳",東方衛視國際頻道
-http://服务器ip:20008/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",KIX
-http://服务器ip:20008/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Nick Jr
-http://服务器ip:20008/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Nickelodeon
-http://服务器ip:20008/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",AXN
-http://服务器ip:20008/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",NHK World-Japan
-http://服务器ip:20008/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",ZooMoo
-http://服务器ip:20008/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",NHK東京総合
-http://服务器ip:20008/AKTV/live/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1  group-title="港澳",Love Nature HD
-http://服务器ip:20008/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+http://服务器ip:20008/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",KIX
+http://服务器ip:20008/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Nick Jr
+http://服务器ip:20008/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Nickelodeon
+http://服务器ip:20008/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",AXN
+http://服务器ip:20008/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",NHK World-Japan
+http://服务器ip:20008/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",ZooMoo
+http://服务器ip:20008/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",NHK東京総合
+http://服务器ip:20008/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",Love Nature HD
+http://服务器ip:20008/stream/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",Jade 翡翠台
 http://服务器ip:20005/hls/live/81.m3u8?token=你的token
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",Jade 翡翠台(h265)
@@ -558,21 +558,21 @@ http://服务器ip:20005/hls/live/586.m3u8?token=你的token
 http://服务器ip:20005/hls/live/87.m3u8?token=你的token
 #EXTINF:-1 tvg-name="华语剧台" group-title="港澳",華語劇台
 http://服务器ip:20005/hls/live/89.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",黃金華劇台
+#EXTINF:-1 group-title="港澳",黃金華劇台
 http://服务器ip:20005/hls/live/90.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",E-News 娛樂新聞台
+#EXTINF:-1 group-title="港澳",E-News 娛樂新聞台
 http://服务器ip:20005/hls/live/91.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",黃金翡翠台
+#EXTINF:-1 group-title="港澳",黃金翡翠台
 http://服务器ip:20005/hls/live/100.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",粵語片台
+#EXTINF:-1 group-title="港澳",粵語片台
 http://服务器ip:20005/hls/live/200.m3u8?token=你的token
 #EXTINF:-1 tvg-name="美亚电影" group-title="港澳",美亞電影台
 http://服务器ip:20005/hls/live/201.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",TVB星河
+#EXTINF:-1 group-title="港澳",TVB星河
 http://服务器ip:20005/hls/live/203.m3u8?token=你的token
 #EXTINF:-1 tvg-name="POPC" group-title="港澳",Popc
 http://服务器ip:20005/hls/live/206.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",Asia Action
+#EXTINF:-1 group-title="港澳",Asia Action
 http://服务器ip:20005/hls/live/207.m3u8?token=你的token
 #EXTINF:-1 tvg-name="翡翠台" group-title="港澳",翡翠4K
 http://服务器ip:20005/hls/live/800.m3u8?token=你的token
@@ -638,39 +638,39 @@ http://服务器ip:20005/hls/live/503.m3u8?token=你的token
 http://服务器ip:20005/hls/live/504.m3u8?token=你的token
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳",鳳凰衛視資訊
 http://服务器ip:20005/hls/live/505.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",ABC News
+#EXTINF:-1 group-title="港澳",ABC News
 http://服务器ip:20005/hls/live/400.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",BBC News
+#EXTINF:-1 group-title="港澳",BBC News
 http://服务器ip:20005/hls/live/401.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",CNN FAST
+#EXTINF:-1 group-title="港澳",CNN FAST
 http://服务器ip:20005/hls/live/402.m3u8?token=你的token
 #EXTINF:-1 tvg-name="澳视澳门" group-title="港澳",澳视澳门
 http://服务器ip:20005/hls/live/403.m3u8?token=你的token
 #EXTINF:-1 tvg-name="澳视资讯" group-title="港澳",澳视资讯
 http://服务器ip:20005/hls/live/404.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",SuperSport LaLiga
+#EXTINF:-1 group-title="港澳",SuperSport LaLiga
 http://服务器ip:20005/hls/live/700.m3u8?token=你的token
 #EXTINF:-1 tvg-name="CCTV5" group-title="港澳",CCTV5(h265)
 http://服务器ip:20005/hls/live/701.m3u8?token=你的token
 #EXTINF:-1 tvg-name="CCTV5+" group-title="港澳",CCTV5+
 http://服务器ip:20005/hls/live/702.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",ELTA 1
+#EXTINF:-1 group-title="港澳",ELTA 1
 http://服务器ip:20005/hls/live/703.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",ELTA 2
+#EXTINF:-1 group-title="港澳",ELTA 2
 http://服务器ip:20005/hls/live/704.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",ELTA 3
+#EXTINF:-1 group-title="港澳",ELTA 3
 http://服务器ip:20005/hls/live/705.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",ELTA 4
+#EXTINF:-1 group-title="港澳",ELTA 4
 http://服务器ip:20005/hls/live/706.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",beIN SPORTS 1
+#EXTINF:-1 group-title="港澳",beIN SPORTS 1
 http://服务器ip:20005/hls/live/707.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",beIN SPORTS 2
+#EXTINF:-1 group-title="港澳",beIN SPORTS 2
 http://服务器ip:20005/hls/live/708.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",beIN SPORTS 3
+#EXTINF:-1 group-title="港澳",beIN SPORTS 3
 http://服务器ip:20005/hls/live/709.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",SPOTV 1
+#EXTINF:-1 group-title="港澳",SPOTV 1
 http://服务器ip:20005/hls/live/710.m3u8?token=你的token
-#EXTINF:-1  group-title="港澳",SPOTV 2
+#EXTINF:-1 group-title="港澳",SPOTV 2
 http://服务器ip:20005/hls/live/711.m3u8?token=你的token
 
 #大陆（allinone）
