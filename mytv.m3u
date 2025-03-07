@@ -3,173 +3,173 @@
 #台湾
 #EXTM3U x-tvg-url="https://epg.doube.eu.org/ofiii.xml"
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="台湾",台視
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="台湾",中視
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="台湾",華視
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="台湾",好消息
-http://服务器ip:50002/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="台湾",哆啦Ａ夢台
-http://服务器ip:50002/index.m3u8?pid=ofiii22&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii22&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="台湾",亞洲旅遊台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="台湾",龍華戲劇台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="台湾",台灣戲劇台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="台湾",東森購物1台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="台湾",龍華偶像台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="台湾",龍華日韓台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="台湾",華視新聞
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="台湾",三立新聞iNEWS
-http://服务器ip:50002/index.m3u8?pid=iNEWS&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=iNEWS&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="台湾",寰宇財經台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="台湾",台視新聞
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="台湾",中視新聞
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="台湾",中天新聞台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="台湾",寰宇新聞台灣台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="台湾",寰宇新聞台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="台湾",龍華經典台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="台湾",龍華電影台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="台湾",去有風的地方
-http://服务器ip:50002/index.m3u8?pid=ofiii116&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii116&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="綜藝玩很大" tvg-name="綜藝玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="台湾",綜藝玩很大
-http://服务器ip:50002/index.m3u8?pid=ofiii130&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii130&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="台湾",全民星攻略
-http://服务器ip:50002/index.m3u8?pid=ofiii131&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii131&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="台湾",Yes娛樂
-http://服务器ip:50002/index.m3u8?pid=ofiii47&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii47&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="台湾",掏掏新聞
-http://服务器ip:50002/index.m3u8?pid=ofiii50&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii50&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="柯文哲政治風波" tvg-name="柯文哲政治風波" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png" group-title="台湾",柯文哲政治風波
-http://服务器ip:50002/index.m3u8?pid=ofiii51&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii51&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="台湾",華視新聞
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="台湾",倪珍播新聞
-http://服务器ip:50002/index.m3u8?pid=nnews-zh&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=nnews-zh&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="台湾",三立新聞iNEWS
-http://服务器ip:50002/index.m3u8?pid=iNEWS&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=iNEWS&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="台湾",國際大小事
-http://服务器ip:50002/index.m3u8?pid=ofiii55&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii55&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="台湾",寰宇財經台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="台湾",台視新聞
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="台湾",中視新聞
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="台湾",中天新聞台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="台湾",寰宇新聞台灣台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="台湾",寰宇新聞台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="第1財經" tvg-name="第1財經" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="台湾",第1財經
-http://服务器ip:50002/index.m3u8?pid=ofiii64&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii64&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="台湾",第1商業台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="國會頻道1台" tvg-name="國會頻道1台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png" group-title="台湾",國會頻道1台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="國會頻道2台" tvg-name="國會頻道2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png" group-title="台湾",國會頻道2台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="台湾",倪珍英語新聞
-http://服务器ip:50002/index.m3u8?pid=nnews-en&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=nnews-en&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="大新聞大爆卦" tvg-name="大新聞大爆卦" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="台湾",大新聞大爆卦
-http://服务器ip:50002/index.m3u8?pid=ofiii201&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii201&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="新聞大白話" tvg-name="新聞大白話" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="台湾",新聞大白話
-http://服务器ip:50002/index.m3u8?pid=ofiii202&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii202&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="文茜的世界周報" tvg-name="文茜的世界周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="台湾",文茜的世界周報
-http://服务器ip:50002/index.m3u8?pid=ofiii203&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii203&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="寰宇全視界" tvg-name="寰宇全視界" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="台湾",寰宇全視界
-http://服务器ip:50002/index.m3u8?pid=ofiii204&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii204&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="文茜的世界財經周報" tvg-name="文茜的世界財經周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="台湾",文茜的世界財經周報
-http://服务器ip:50002/index.m3u8?pid=ofiii205&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii205&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="環球大戰線" tvg-name="環球大戰線" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="台湾",環球大戰線
-http://服务器ip:50002/index.m3u8?pid=ofiii206&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii206&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="台湾",少康戰情室
-http://服务器ip:50002/index.m3u8?pid=ofiii207&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii207&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="國民大會" tvg-name="國民大會" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="台湾",國民大會
-http://服务器ip:50002/index.m3u8?pid=ofiii208&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii208&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="台湾",台視
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="台湾",中視
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="台湾",華視
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="台湾",好消息2台
-http://服务器ip:50002/index.m3u8?pid=litv-ftv17&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-ftv17&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="台湾",好消息
-http://服务器ip:50002/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="台湾",ELTV生活英語台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn20&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn20&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png" group-title="台湾",亞洲旅遊台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="台湾",中天亞洲精采台
-http://服务器ip:50002/index.m3u8?pid=ofiii36&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii36&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="台湾",Smart知識台
-http://服务器ip:50002/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" group-title="台湾",東森購物1台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" group-title="台湾",東森購物2台
-http://服务器ip:50002/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="台湾",Focus探索新知台
-http://服务器ip:50002/index.m3u8?pid=ofiii82&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii82&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="台湾",鄉民大學問
-http://服务器ip:50002/index.m3u8?pid=ofiii83&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii83&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="台湾",社會NOW什麼
-http://服务器ip:50002/index.m3u8?pid=ofiii85&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii85&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="倪珍報星座" tvg-name="倪珍報星座" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3410_ofiii86_tv_20240731.png" group-title="台湾",倪珍報星座
-http://服务器ip:50002/index.m3u8?pid=ofiii86&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii86&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="《錦繡安寧》預告花絮" tvg-name="《錦繡安寧》預告花絮" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png" group-title="台湾",《錦繡安寧》預告花絮
-http://服务器ip:50002/index.m3u8?pid=ofiii88&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii88&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="泰可愛旋風" tvg-name="泰可愛旋風" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="台湾",泰可愛旋風
-http://服务器ip:50002/index.m3u8?pid=ofiii89&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii89&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="演唱會直擊" tvg-name="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="台湾",演唱會直擊
-http://服务器ip:50002/index.m3u8?pid=ofiii91&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii91&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="健康問良醫" tvg-name="健康問良醫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png" group-title="台湾",健康問良醫
-http://服务器ip:50002/index.m3u8?pid=ofiii92&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii92&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="Freeman @台灣" tvg-name="Freeman @台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="台湾",Freeman @台灣
-http://服务器ip:50002/index.m3u8?pid=ofiii95&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii95&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="饕客揪愛吃" tvg-name="饕客揪愛吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="台湾",饕客揪愛吃
-http://服务器ip:50002/index.m3u8?pid=ofiii96&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii96&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="人氣動漫預告" tvg-name="人氣動漫預告" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="台湾",人氣動漫預告
-http://服务器ip:50002/index.m3u8?pid=ofiii97&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii97&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="銀髮聚樂部" tvg-name="銀髮聚樂部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="台湾",銀髮聚樂部
-http://服务器ip:50002/index.m3u8?pid=ofiii99&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii99&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="生命的贏家" tvg-name="生命的贏家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="台湾",生命的贏家
-http://服务器ip:50002/index.m3u8?pid=ofiii192&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii192&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="電動車時代" tvg-name="電動車時代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="台湾",電動車時代
-http://服务器ip:50002/index.m3u8?pid=ofiii215&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii215&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="SiCAR愛車酷" tvg-name="SiCAR愛車酷" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="台湾",SiCAR愛車酷
-http://服务器ip:50002/index.m3u8?pid=ofiii216&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii216&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="狂人日誌" tvg-name="狂人日誌" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="台湾",狂人日誌
-http://服务器ip:50002/index.m3u8?pid=ofiii217&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii217&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="脖子解說 Mr. Neck" tvg-name="脖子解說 Mr. Neck" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png" group-title="台湾",脖子解說 Mr. Neck
-http://服务器ip:50002/index.m3u8?pid=ofiii218&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii218&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="紓壓雷雨聲" tvg-name="紓壓雷雨聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png" group-title="台湾",紓壓雷雨聲
-http://服务器ip:50002/index.m3u8?pid=ofiii250&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii250&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="療癒下雨聲" tvg-name="療癒下雨聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="台湾",療癒下雨聲
-http://服务器ip:50002/index.m3u8?pid=ofiii251&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii251&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="放鬆的爵士午後" tvg-name="放鬆的爵士午後" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="台湾",放鬆的爵士午後
-http://服务器ip:50002/index.m3u8?pid=ofiii252&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii252&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="野外燒柴火聲" tvg-name="野外燒柴火聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="台湾",野外燒柴火聲
-http://服务器ip:50002/index.m3u8?pid=ofiii253&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii253&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="夏日陽光海浪聲" tvg-name="夏日陽光海浪聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="台湾",夏日陽光海浪聲
-http://服务器ip:50002/index.m3u8?pid=ofiii254&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii254&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="台湾",哆啦Ａ夢台
-http://服务器ip:50002/index.m3u8?pid=ofiii22&sd=1080&proxy=true
+http://168.138.22.18:50002/index.m3u8?pid=ofiii22&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="台湾",龍華經典台
 http://服务器ip:50002/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true
 #EXTINF:-1 tvg-id="Golden 強片台" tvg-name="Golden 強片台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="台湾",Golden 強片台
@@ -679,13 +679,13 @@ http://服务器ip:20005/hls/live/706.m3u8?token=你的token
 #EXTINF:-1 group-title="港澳",beIN SPORTS 1
 http://服务器ip:20005/hls/live/707.m3u8?token=你的token
 #EXTINF:-1 group-title="港澳",beIN SPORTS 2
-http://服务器ip:20005/hls/live/708.m3u8?token=你的token
+http://168.138.22.18:20005/hls/live/708.m3u8?token=你的token
 #EXTINF:-1 group-title="港澳",beIN SPORTS 3
-http://服务器ip:20005/hls/live/709.m3u8?token=你的token
+http://168.138.22.18:20005/hls/live/709.m3u8?token=你的token
 #EXTINF:-1 group-title="港澳",SPOTV 1
-http://服务器ip:20005/hls/live/710.m3u8?token=你的token
+http://168.138.22.18:20005/hls/live/710.m3u8?token=你的token
 #EXTINF:-1 group-title="港澳",SPOTV 2
-http://服务器ip:20005/hls/live/711.m3u8?token=你的token
+http://168.138.22.18:20005/hls/live/711.m3u8?token=你的token
 
 #大陆（allinone）
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
